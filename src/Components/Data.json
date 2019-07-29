@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name" : "Pacific Rim",
+        "tel": "0987654321",
+        "permission": 1
+    },
+    {
+        "id":2,
+        "name" : "Iron Man",
+        "tel": "09876543232",
+        "permission": 2
+    },
+    {
+        "id":3,
+        "name" : "Doctor Strange",
+        "tel": "0987654323",
+        "permission": 2
+    },
+    {
+        "id":4,
+        "name" : "Spider Man",
+        "tel": "0987654324",
+        "permission": 1
+    },
+    {
+        "id":5,
+        "name" : "Thor",
+        "tel": "0987654325",
+        "permission": 2
+    },
+    {
+        "id":6,
+        "name" : "Iron man 2",
+        "tel": "0987654326",
+        "permission": 3
+    },
+    {
+        "id":7,
+        "name" : "Iron man 3",
+        "tel": "0987654327",
+        "permission": 1
+    }
+]
